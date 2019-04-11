@@ -6,4 +6,6 @@ sudo apt install nodejs
 sudo apt install ns2
 sudo apt install nam
 sudo apt install r-base
+sudo apt install iverilog
+sudo apt install gtkware
 sudo apt autoremove
