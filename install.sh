@@ -8,4 +8,5 @@ sudo apt install nam
 sudo apt install r-base
 sudo apt install iverilog
 sudo apt install gtkware
+sudo snap install vlc
 sudo apt autoremove
