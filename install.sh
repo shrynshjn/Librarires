@@ -9,4 +9,5 @@ sudo apt install r-base
 sudo apt install iverilog
 sudo apt install gtkware
 sudo snap install vlc
+sudo snap install spotify
 sudo apt autoremove
