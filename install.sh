@@ -11,8 +11,8 @@ sudo snap install vlc
 sudo snap install spotify
 sudo apt install curl
 sudo apt install nodejs
-sudo apt install npm
 sudo snap install android-studio --classic
 sudo snap install vlc
 sudo snap install sublime-text --classic
+sudo apt install adb
 sudo apt autoremove
